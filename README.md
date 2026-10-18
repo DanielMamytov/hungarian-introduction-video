@@ -1,9 +1,9 @@
-# Видео: знакомство на венгерском
+# Hungarian Introduction Video
 
-## [⬇ Скачать видео — MP4, 574 МБ](https://github.com/DanielMamytov/hungarian-introduction-video/releases/latest/download/hungarian-introduction.mp4)
+## [⬇ Download video — MP4, 574 MB](https://github.com/DanielMamytov/hungarian-introduction-video/releases/latest/download/hungarian-introduction.mp4)
 
-Нажмите на ссылку выше, чтобы скачать видео. Вход в GitHub не требуется.
+Click the link above to download the video. No GitHub account is required.
 
-[Открыть страницу релиза](https://github.com/DanielMamytov/hungarian-introduction-video/releases/tag/video-2026-10-18)
+[View release](https://github.com/DanielMamytov/hungarian-introduction-video/releases/tag/video-2026-10-18)
 
-Формат: MP4. Видео размещено в разделе Releases.
+Format: MP4. The video is available in the Releases section.
